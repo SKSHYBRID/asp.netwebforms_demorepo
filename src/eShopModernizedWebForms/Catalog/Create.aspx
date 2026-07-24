@@ -111,7 +111,7 @@
                         <a runat="server" href="~" class="btn esh-button esh-button-secondary">[ Cancel ]
                         </a>
                         <asp:Button CssClass="btn esh-button esh-button-primary" runat="server" Text="[ Create ]"
-                            OnClick="Cre" />
+                            OnClick="Create_Click" />
                     </div>
                 </div>
             </div>
